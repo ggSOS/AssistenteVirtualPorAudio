@@ -2,10 +2,10 @@
 
 Assistente virtual por voz em Python que:
 
-* 🎤 grava áudio do microfone
-* 🧠 converte fala em texto (Whisper)
-* 🤖 processa com ChatGPT
-* 🔊 responde em áudio (Text-to-Speech)
+* grava áudio do microfone
+* converte fala em texto (Whisper)
+* processa com ChatGPT
+* responde em áudio (Text-to-Speech)
 
 Fluxo:
 
